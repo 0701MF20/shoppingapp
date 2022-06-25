@@ -56,7 +56,7 @@ class HomeActivity : AppCompatActivity() {
             }
 
             override fun onButtonClicked(buttonCode: Int) {
-              
+
             }
 
         })
